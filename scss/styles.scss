@@ -1,5 +1,9 @@
 @use 'base/normalize';
 
+body {
+    background-color: rgb(226, 232, 232);
+}
+
 #search {
     display: block;
     height: 4em;
